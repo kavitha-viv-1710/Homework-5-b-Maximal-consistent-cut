@@ -10,4 +10,4 @@ We stored all the vector clock calculations from the three process model given i
 
 Files included in Project: maxConsistentCut.java
 
-Tester Cases: We choose to test multiple different given cuts both consistent and inconsistent. Our algorithm holds true for all cases.
+Tester Cases: We chose to test multiple different given cuts both consistent and inconsistent. Our algorithm holds true for all cases.
