@@ -13,7 +13,7 @@ public class maxConsistentCut {
         int store1[][]={{1,1,0},{1,2,3},{1,3,3},{2,4,5}};
         int store2[][]={{0,0,1},{0,0,2},{0,0,3},{2,0,4},{2,0,5},{2,3,6}, {2,3,7}};
         
-        int maxCut[]={0,0,1};      
+        int maxCut[]={0,0,0};      
         int givenCut[]={0,0,0};
         
         //check if givenCut is valid
